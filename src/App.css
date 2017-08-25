@@ -1,0 +1,39 @@
+body {
+  background-color: #fff;
+}
+.app-container {
+  width: 100%;
+  margin-top: 100px;
+  text-align: center;
+}
+
+canvas#gameboard {
+  margin: 10px auto;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	display: block;
+	margin-bottom: 1em;
+}
+
+#generation {
+  margin-right: 5px;
+}
+.btn-margin {
+  margin-right: 5px;
+}
+
+.active {
+  background-color: #039BE5 !important;
+  color: #FFF !important;
+}
+
+.inactive {
+  background-color: #FFF !important;
+  color: #7B7B7B !important;
+}
+
+.coded-by {
+  margin-top: 15px;
+  color: #fff;
+  font-size: 16px;
+}
