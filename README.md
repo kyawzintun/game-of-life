@@ -9,4 +9,4 @@ $ npm install
 $ npm start
 ```
 
-*[Demo](https://cukyawzintun.github.io/game-of-life/)*
+*[Demo](https://kyawzintun.github.io/game-of-life/)*
